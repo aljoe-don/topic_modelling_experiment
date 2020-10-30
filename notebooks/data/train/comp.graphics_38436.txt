@@ -1,0 +1,9 @@
+
+[Most info regarding dangers of reading from Floppy disks omitted]
+In all fairness, how many people do you know personally who read images
+from Floppy drives?  I haven't tried it with JPEGs, but I do realize how
+agonizingly slow it is with GIF files.  
+Nevertheless, it is an important bug that needs to be squashed.  I am
+merely pointing out that it was probably overlooked.  While it is serious,
+one must keep in mind that it will probably affect at most 5% of the
+targeted users of CView.

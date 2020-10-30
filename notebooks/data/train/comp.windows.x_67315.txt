@@ -1,0 +1,19 @@
+
+comp.windows.x
+	Please igore my previouse calculation mistaked. Please see the correct
+calculation. Sorry!
+ x3 = 300;
+ @ = art tan (500 - 270)/(800 - 100)) = 18.19 degrees;
+ y3 = 100 + (300 - 270)/tan(@) = 191.29 ~= 191 integer
+-- 
+Raymond H. Chui
+NSWC N62
+10901 New Hampshire Ave.
+Silver Spring, MD 20903-5000
+U.S.A.
+ _ __                                  _    ,    __
+' )  )                           /    ' )  /    /  ) /
+ /--' __. , , ____   ______   __/      /--/    /    /_  . . o
+/  \_(_(_(_/_/) ) )_(_) /) )_(_(_     /  ( o  (__/ / /_(_/_(_
+          /
+         '

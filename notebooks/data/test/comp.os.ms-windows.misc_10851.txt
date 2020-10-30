@@ -1,0 +1,6 @@
+
+
+The easiest way to do this is if you can send the files accross the network. 
+This is much easier going from a Mac to a PC because you don't have to worry
+about losing the resource fork of the file, often a problem when sending binary
+files from a PC to a Mac.

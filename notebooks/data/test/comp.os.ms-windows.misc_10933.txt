@@ -1,0 +1,9 @@
+
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The reason for the change from Smartdrv.exe 4.0 included with
+Windows 3.1 to Smartdrv.exe 4.1 included with DOS 6.0 is
+COMPATABILITY WITH DBLSPACE.  Be sure you are running smartdrv from
+your DOS directory.

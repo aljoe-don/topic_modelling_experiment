@@ -1,0 +1,14 @@
+
+It first depends on what an idle cpu is doing!
+I'm not sure about DOS, but many multitasking OSs have an loop like this
+	is there anything to do?
+		YES -> do it; goto loop
+		NO  -> goto loop
+The CPU is not doing any work but it is still processing instructions...
+It will also respond to interupts...
+Guy
+-- 
+-- -----------------------------------------------------------------------------
+Guy Dawson - Hoskyns Group Plc.
+        guyd@hoskyns.co.uk  Tel Hoskyns UK     -  71 251 2128
+        guyd@austin.ibm.com Tel IBM Austin USA - 512 838 3377

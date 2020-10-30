@@ -1,0 +1,4 @@
+
+ Can You report CRT and other register state in this mode ?
+ Thank's.
+        Serge Ivanov (serge@argus.msk.su)

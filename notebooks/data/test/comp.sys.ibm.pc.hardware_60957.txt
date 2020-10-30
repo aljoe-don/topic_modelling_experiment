@@ -1,0 +1,6 @@
+
+caching
+drive
+for?
+did you make the other drive a master drive?
+did you partition-&-format?

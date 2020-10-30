@@ -1,0 +1,9 @@
+
+	You're right, it doesn't appear to working correctly.  It really
+	should say:
+		"space: the last frontier"
+	across the top. :) :) :)
+-- 
+John A. Grant						jagrant@emr1.emr.ca
+Airborne Geophysics
+Geological Survey of Canada, Ottawa

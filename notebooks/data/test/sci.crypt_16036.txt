@@ -1,0 +1,7 @@
+
+I was under the impression (from reading Denning's description of the
+Clipper's operation) that the same session key *is* used in both directions for
+encrypting the message text, but that each chip uses it's own key for
+encrypting the session key into the law-enforcement field.  So, you only
+need to know the U key for one of the phones involved to decrypt the
+messages in both directions.

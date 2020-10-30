@@ -1,0 +1,7 @@
+
+A SIMM is a small PCB with DRAM chips soldered on.
+--maarten
+-- 
+In real life:	Maarten Carels
+		Computer Science Department
+		University of Amsterdam

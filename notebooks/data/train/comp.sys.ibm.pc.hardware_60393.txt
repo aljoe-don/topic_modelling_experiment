@@ -1,0 +1,8 @@
+
+We had the same problem in our company. We changed the keyboard-bios and
+after that, everything went fine. Our dealer told us that some boards of
+that series have a defect kbd-bios.
+Michael
+--
+*  michael@jester.gun.de  *   Michael Gerhards   *   Preussenstrasse 59  *
+                          *  Germany 4040 Neuss  *  Voice: 49 2131 82238 *

@@ -1,0 +1,4 @@
+
+Apples HDSC will only format a hard drive that Apple sold.  You need to use
+a third party formater like Drive7 or SpotOn.
+

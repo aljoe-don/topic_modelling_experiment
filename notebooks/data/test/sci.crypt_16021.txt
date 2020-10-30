@@ -1,0 +1,10 @@
+
+At the moment PGP is available in executable format for MS-DOS and Mac,
+and source code for most other platforms including UNIX. Many FTP sites
+keep a copy (although the Mac version is getting hard to find). Try the
+following site:
+soda.berkeley.edu           /pub/cypherpunks/pgp
+Jon
+--
+                                 ---  Keats, 1819  ---
+     PGP 2.2 public key available upon request or by finger

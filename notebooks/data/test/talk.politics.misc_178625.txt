@@ -1,0 +1,10 @@
+
+Not quite.  First, the median does not imply that half of the men are
+above and half below 7.3: it simply means that 7.3 is the mid-point
+between the maximum number of partners and the minimum (which is most
+likely zero).  However, assuming your implication to be more-or-less
+correct, your final result is still invalid.  If 50% of *all* males
+have had more than 7.3 partners, and you deduct the assumed 1% of 
+homosexual males, what remains is not 49.5%, but still *50%* of all
+*heterosexual* males.  Which is to say: hey, we're all human.
+-garison

@@ -1,0 +1,10 @@
+
+What sort of traffic is generated with the X-calls?  I am curious to find
+out the required bandwidth that a link must have  if one machine running
+DV/X is supporting multiple users (clients) and we require adequate response
+time.  Anyone have any ideas ??  
+---
+__/ __/ George Patapis ---------------------PAN METRON ARISTON---------- __/ __/
+__/ __/ C.S.S.C Lane Cove-----------email:gpatapis@cssc-syd.tansu.com.au __/ __/
+__/ __/ P.O.Box A792 Sydney South --fax  :(02) 911 3 199---------------- __/ __/
+__/ __/ NSW, 2000, Australia.-------voice:(02) 911 3 121---------------- __/ __/

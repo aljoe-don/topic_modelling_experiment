@@ -1,0 +1,12 @@
+
+Here is another hint:
+	I have a really jumping mouse (ps2 type), and finally the mouse
+stops jump changing HIMEM.SYS (yes, himem!), is you use:
+DEVICE=HIMEM.SYS /M:x
+x can be 1,2,...,8 (Of course my computer DON'T appear on the list for
+these parameter)
+ And maybe, your mouse can stop jump... (But your problem looks more
+like a dirty mouse ;)...
+	Hope it help (to anybody!)
+Alejandro Cifuentes H.
+acifuent@isluga.puc.cl   

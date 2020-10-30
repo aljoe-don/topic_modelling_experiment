@@ -1,0 +1,5 @@
+
+Win-OS/2 is IBM work? You make me laugh... Re-writing couple of thousands
+lines of code to make Windows compatible with your DPMI implementation does
+not make the rest of Windows IBM work...
+/Serge.P

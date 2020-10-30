@@ -1,0 +1,11 @@
+
+Charles Boesel writes
+(sci.image.processing,comp.graphics), wdm@world.std.com (Wayne Michael)  
+Illustrator for SGI is a shipping product. Adobe and SGI have announced that  
+Photoshop is being ported to SGI machines. A simillar announcement has been  
+made by Adobe and Sun for Sun platforms. No dates have been announced to the  
+best of my knowledge.
+--
+Zalman Stern		   zalman@adobe.com		    (415) 962 3824
+Adobe Systems, 1585 Charleston Rd., POB 7900, Mountain View, CA 94039-7900
+  "We're just a couple of joyful little pervo-goats." -- Akbar (Jeff?)

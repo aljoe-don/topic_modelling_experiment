@@ -1,0 +1,7 @@
+
+The condition happens  when the TAB is not  set  to 8 spaces,  set and
+then check out.
+-- 
+Suresh Sivaprakasam                    
+Department of Computer Science,    SUNY Buffalo,    Amherst,   NY - 14260-0001
+Internet :sivap-s@cs.Buffalo.EDU               Bitnet : sivap-s@SUNYBCS.BITNET

@@ -1,0 +1,9 @@
+
+Ummm, I beg to differ. A kind soul sent me a program called DPG-VIEW that
+will do exactly what I want, view GIF images under Linux without X-Windows.
+And, it does support all the way up to 1024x768. The biggest complaint I
+have is it is painfully SLOW. It takes about 1 minute to display an image.
+I am use to CSHOW under DOS which takes a split second. Any idea why it
+is so slow under Linux? Anybody have anything better? Plus, anybody have
+the docs to DPG-View? Thanks!
+ 

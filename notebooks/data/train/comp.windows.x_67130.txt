@@ -1,0 +1,7 @@
+
+[...]
+I presume that you meant to say tcsh here ------^^^^^
+-- 
+Michael Salmon
+Ericsson Telecom AB
+Stockholm

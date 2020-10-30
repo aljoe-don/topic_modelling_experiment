@@ -1,0 +1,8 @@
+Article-I.D.: clark.1993Apr6.215836.27428
+Of course its possible, I get 1024x768 on my Centris 650. All you need is
+a correctly wired video cable.
+Gary
+-- 
+-----
+Gary Snow
+uunet!clark!gsnow  or  gsnow@clark.edu

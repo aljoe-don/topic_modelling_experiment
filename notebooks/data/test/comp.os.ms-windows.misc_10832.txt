@@ -1,0 +1,9 @@
+
+A program called Mac-ette allows you to read Mac 3.5"
+high-density disks on a DOS machine. You can get the program from
+simtel-20. I'm not sure of the directory location.
+-- 
+/  Jim Powlesland                   / INTERNET: powlesla@acs.ucalgary.ca
+/  Academic Computing Services      / VOICE:    (403)220-7937
+/  University of Calgary            / MESSAGE:  (403)220-6201
+/  Calgary, Alberta CANADA  T2N 1N4 / FAX:      (403)282-9199

@@ -1,0 +1,18 @@
+	of Denver for the Denver community.  The University has neither
+	control over nor responsibility for the opinions of users.
+he
+     Are we talking about ColorView for DOS here?  
+     I have version 2.0 and it writes the temp files to its own
+     current directory.
+     What later versions do, I admit that I don't know.
+     Assuming your "expert" referenced above is talking about
+     the version that I have, then I'd say he is correct.
+     Is the ColorView for unix what is being discussed?
+     Just mixed up, confused, befuddled, but genuinely and
+     entirely curious....
+     Uncle Fester
+--
+           :     What God Wants      :  God wants gigolos          :
+           :        God gets         :  God wants giraffes         :
+           :     God help us all     :  God wants politics         :
+           : *thester@nyx.cs.du.edu* :  God wants a good laugh     :

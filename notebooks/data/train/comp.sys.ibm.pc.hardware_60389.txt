@@ -1,0 +1,4 @@
+
+Why not?  This is rather disappointing...
+Yep.  That's cause the latest(and presumably all future) Adaptec drivers look
+for the string "Adaptec" or something to that effect in the cards BIOS.

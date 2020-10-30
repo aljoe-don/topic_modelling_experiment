@@ -1,0 +1,7 @@
+
+That seems about right.  I have a Mac IIsi 5/130 with 64k cache card running
+System 7.1.  My roommate has a 486sx/25 5/200+ running Windows 3.1 and from
+what I've seen, my IIsi is faster in some operations.  In others, they are
+comparable...But keep in mind I'm strictly speaking of operations on the
+desktop level of Windows 3.1 and System 7.1, not actual computational speed
+in other programs...

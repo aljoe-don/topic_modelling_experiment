@@ -1,0 +1,8 @@
+
+Two questions:
+EISA motherboard (AIR) that has AMI bios..specifically I would like to set
+the atclk or wait states or bus speed on this board, I can't seem to be
+able to do it..any help in this area would be greatly appreciated.
+am looking for jumper settings on a 5099EN24 drive..
+Thanks in advance.
+Tony

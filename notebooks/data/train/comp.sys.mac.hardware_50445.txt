@@ -1,0 +1,7 @@
+Article-I.D.: geraldo.1pqt5nINN605
+I have MANY questions for all you experts out there pertaining to apple's
+built-in video.  
+    if so, what should it look like?
+Particularly, i'm interested in knowing if the si or ci drive VGA, as well
+as the LC's capabilities in driving VGA/SVGA
+Thanks!!!

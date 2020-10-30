@@ -1,0 +1,8 @@
+
+It appears as if the problem is related to the 68882/50's need for very fast
+(and clean) signal transitions.  I got some email (Vielen Dank, Thomas) stating
+that Motorola provides a solution for this problem in their 68030 manual.  
+Since my manual (1989) predates the 50 MHz 68030/68882s I couldn't find it.
+Could someone please email me the specifics?
+		Thanks
+			Christian

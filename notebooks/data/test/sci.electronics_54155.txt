@@ -1,0 +1,9 @@
+
+And I thought I knew a lot about serial devices.  Perhaps I should just
+keep my big mouth shut.  Sorry.
+Alan Mimms (alan@apple.com, ...!apple!alan)   | My opinions are generally
+Portable Macintosh Software Group             | pretty worthless, but
+Apple Computer                                | they *are* my own...
+Art without engineering is dreaming.  Engineering without art is
+calculating.
+	-- Steven K. Roberts in "Computing Across America"

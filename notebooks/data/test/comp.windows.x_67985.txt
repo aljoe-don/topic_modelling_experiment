@@ -1,0 +1,9 @@
+
+For the machine that is connected to the InterNet, what is it running?  If it
+is running VMS, then if you obtain MultiNet for it, MultiNet comes with a
+TCP/IP to DECnet gateway for X11.
+Patrick L. Mahan
+--- TGV Window Washer ------------------------------- Mahan@TGV.COM ---------
+Waking a person unnecessarily should not be considered  - Lazarus Long
+a capital crime.  For a first offense, that is            From the Notebooks of
+							  Lazarus Long

@@ -1,0 +1,8 @@
+
+I'm using PC Plus at home on my trusty old NEC 386 SX/20 with a 14,400
+baud modem with no problems at all.  I am, however, running only
+straight 16 color VGA.
+--
+Christopher Menzel		    Internet -> cmenzel@tamu.edu
+Philosophy, Texas A&M University    Phone ---->   (409) 845-8764
+College Station, TX  77843-4237	    Fax ------>   (409) 845-045

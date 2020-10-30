@@ -1,0 +1,9 @@
+
+
+You also have a severe problem with news headers.
+FTP to cs.purdue.edu:pub/vanecek and pull proxima.tar.Z
+and proxima.ps.Z.  Tres spif.
+-- 
+Lance Norskog
+thinman@netcom.com
+Data is not information is not knowledge is not wisdom.

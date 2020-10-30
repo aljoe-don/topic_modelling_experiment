@@ -1,0 +1,12 @@
+
+[...]
+With all the activity in sci.crypt these past few days, I am not supprised
+you missed it... NIST got Skipjack from the NSA :)
+[...]
+"I am not a crook." President Richard M. Nixon
+                    ^^^^^^^^^
+-- 
+ Information farming at...     For addr&phone: finger             A/~~\A
+ THE Ohio State University  jebright@magnus.acs.ohio-state.edu   ((0  0))____
+      Jim Ebright             e-mail: jre+@osu.edu                 \  /      \
+                          Support Privacy: Support Encryption      (--)\      

@@ -1,0 +1,10 @@
+
+It's not quite what you were asking, but a few years ago I helped some EE
+remote sensing people run some experiments on the microwave emmissivity of
+ice; they used the sky for a background calibration source.  They said that
+from Earth's surface the sky looks like a 60K blackbody.
+-- 
+     Dr. Kurt Hillig
+   Dept. of Chemistry      I always tell the    phone (313)747-2867
+ University of Michigan     absolute truth    X.500 khillig@umich.edu
+Ann Arbor, MI  48109-1055    as I see it.    hillig@chem.lsa.umich.edu

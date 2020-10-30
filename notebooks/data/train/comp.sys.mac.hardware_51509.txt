@@ -1,0 +1,7 @@
+
+
+Yes, but if you upgrade the VRAM in a 900 you get 24 bit color.  So
+you really don't care.  My point is that out the box the 950 has
+more video capability for the same size monitors.  The 900 can
+do 24 bit with both 13" and 16", doesn't support 19", and
+does 8 bit on 21" monitors.

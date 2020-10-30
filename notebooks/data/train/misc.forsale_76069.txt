@@ -1,0 +1,5 @@
+
+Forgot to mention that the above mentioned Quantum is a SCSI
+drive.
+-S. Hsieh
+zeno@ccwf.cc.utexas.edu

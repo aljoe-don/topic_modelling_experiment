@@ -1,0 +1,6 @@
+              at Oracle Corporation.  The opinions expressed are those
+              of the user and not necessarily those of Oracle.
+There's
+The sound.exe is actually a self extracting script which includes the .drv  
+file.  Works great!
+-Eric

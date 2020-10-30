@@ -1,0 +1,7 @@
+re
+gensim
+nltk
+pydantic
+uvicorn
+fastapi
+pydantic

@@ -1,0 +1,5 @@
+
+Other than getting a 32-bit clean ROM, what other features would a IIci
+ROM in a IIx provide, if any?
+Shreve sells them for about $450.  I can't justify this for 32-bit
+cleanliness when MODE32 works.

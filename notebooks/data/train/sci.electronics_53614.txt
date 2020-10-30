@@ -1,0 +1,9 @@
+
+--
+The simplest one is easy.  Take a lemon or other citrus type fruit, and
+stick a pair of metal strips into it for the contacts.  The two strips must
+be of disimelar metals like copper and zinc.  Then connect a voltmeter to
+the contacts and read the voltage.
+bill@xpresso.UUCP                   (Bill Vance),             Bothell, WA
+rwing!xpresso!bill
+You listen when I xpresso, I listen When uuxpresso.......:-)

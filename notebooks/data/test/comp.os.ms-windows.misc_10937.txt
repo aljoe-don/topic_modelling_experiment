@@ -1,0 +1,10 @@
+
+Note that the filesize .dll is a part of the Windows Resource Kit. If
+you install it (and you can download it from Cica), it will make the
+appropriate changes itself.
+kartik
+-- 
+If you quote my article remember to trim it down to the essentials.
+Anant Kartik Mithal, 				akm@cs.uoregon.edu
+Network Manager, Ph.D. Student			(503)346-3989
+Comp. Science, U of Oregon, Eugene, OR 97403  	(503)346-5373 (fax)

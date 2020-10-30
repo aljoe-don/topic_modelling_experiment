@@ -1,0 +1,4 @@
+
+...
+If you're asking, "does the X server perform clipping
+correctly when drawing lines," the answer is "yes."

@@ -1,0 +1,13 @@
+ <93116.093828SAUNDRSG@QUCDN.QueensU.CA> <1993Apr26.141114.19777@midway.uchicago.edu>
+        All of this is VERY valid and very true.  But to add to this
+explaniation, each individual detector also has a built in fail-safe, just so
+the detector does not read the background radiation(i.e. cosmic rays), 
+if I remember right, the detectors go off about 3 to 5 sigma above the 
+background.  This is so they don't catch particularly energetic cosmic rays
+that would normally set it off. Even with this buffer, they still have to throw
+out something like 1/2 of the bursts that they DO get, because of the Earth's
+Van Allen Belts, the South Atlantic Anomaly, the Sun,  if I remember right,
+there is either a radar station, or a radio station in Australia, and there are
+a couple other sources as well.  
+                                                -jeremy
+                                                belgarath@vax1.mankato.msus.edu

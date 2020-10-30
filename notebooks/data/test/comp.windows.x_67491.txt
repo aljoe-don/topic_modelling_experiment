@@ -1,0 +1,7 @@
+
+JUst use xloadimage instead (or xli).
+-- 
+Ronald van Loon     | In theory, there is no difference 
+(rvloon@cv.ruu.nl)  | between theory and practice.
+3DCV Group, Utrecht |   
+The Netherlands     | In practice however, there is.

@@ -1,0 +1,46 @@
+
+[I write:]
+Yes, that's what I mean.
+Not really, I meant evidence that would tend to one over the other.  I
+think this is just a communications problem.   What I am trying to say,
+in my clumsy way, is that while I buy your theory as far as it relates
+to theism making predictions (prayer, your 'Rapture' example), I don't
+buy your use of Occam's razor in all cases where A=0.
+In my example, one couldn't dismiss
+[benefactor] or [bug] on the grounds of simplicity - one of these is necessary
+to explain the dosh.  I brought up the 'one-by-one dismissal' process to
+show that it would be wrong to do so.  From what you're saying in this
+post, it seems you agree, and we're talking at cross-purposes.
+No, this isn't what I meant.  P(B | d) = 0.5 and P(b | d) = 0.5, with
+necessarily no new observation (we've already seen the dosh) to change
+those estimates.  I was trying to say (again, in my clumsy way) that
+it would be _wrong_ to assign 0 probability to either of these.  And that's
+precisely what use of the Razor does in the case of gods - gods are
+one class of hypothesis (there are many others) belonging to a set of
+hypotheses _one_of_which_ is necessary to explain something which otherwise 
+would _not_ be satisfactorily explained.  It can be thrown out or
+retained on grounds of non-rational preference, not of science or statistics.   
+Alternatively, one could chuck out or retain the lot, on the grounds
+that the answer can't be known, or that the notional probability estimates
+are effectively useless, being equal (agnosticism/weak atheism).
+Some people do, Simon, and they think they are doing excellent science.
+My sole point was that they aren't.
+I was merely trying to illustrate the incorrectness of doing so.
+Then you seem to be guilty of the contradiction you accuse me of.  If
+the razor holds for gods, then it holds for all like hypotheses.  Which
+means that you're assigning P(x | H[i]) =0 for all i, though we've already
+established that it's not correct to do so when SUM(P(x|H[i]))=1 over
+all i.
+No, I got that.  I'm talking about the case when A=0.  You're clearly
+correct when A!=0.   And I'm not constructing a strawman (though it's
+certainly possible that I've misunderstood what you're saying).  However,
+by any standards, a system that says when A=0, gods are highly unlikely,
+and when A!=0 gods can be dismissed using the Razor, is a system purporting
+to be an inductive proof that gods either don't exist, or are unnecessary
+to explain any or all phenomena.  In my experience, systems such as this
+(including those which purport to prove that gods exist) always contain
+a fallacy upon close examination.  If that's not what you're saying, then
+please put me straight.
+-- 
+Frank O'Dwyer                                  'I'm not hatching That'
+odwyer@sse.ie                                  from "Hens",  by Evelyn Conlon

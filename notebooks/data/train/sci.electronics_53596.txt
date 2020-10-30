@@ -1,0 +1,24 @@
+
+Back in the 70's I was a service technician for a cash register company.
+The cash registers used microprocessor circuits and back then they were
+VERY susceptible to electrostatic discharge and line noise.  The biggest
+problems came from outlets that were not properly grounded.
+In almost every place we went to do an installation, we found outlets
+with the ground connected to the neutral.  For 99.9% of the things you
+can plug into one of these, they work fine.  For our cash registers they
+were a nightmare -- line noise tended to scramble the memory
+periodically.
+With modern electronics using switching power supplies this should be
+less of a problem.  Even the company I used to work for is no longer
+recommending a dedicated line with a seperate ground for their
+equipment.  I imagine if you check MOST household wiring you will find
+that the ground and neutral are connected.  Although not ideal, it
+should be o.k. for most applications.
+---
+ . SLMR 2.1 . My reality check just bounced.
+                                
+----
+The Ozone Hole BBS * A Private Bulletin Board Service * (504)891-3142
+3 Full Service Nodes * USRobotics 16.8K bps * 10 Gigs * 100,000 Files
+SKYDIVE New Orleans! * RIME Network Mail HUB * 500+ Usenet Newsgroups
+Please route all questions or inquiries to:  postmaster@ozonehole.com

@@ -1,0 +1,8 @@
+
+If your looking for LEDs in the $.10-$.20 range, forget it. Blue LEDs just
+recently became available and the materials they are made of are expensive.
+Maybe in the future they will become less expensive (and brighter), but
+for now it's going to cost you and the output will be limited. If they ever
+do get as efficient and cost effective as red and green LEDs, you're probably
+going to see a whole new family of color displays.
+         Charlie Brett - Ft. Collins, CO

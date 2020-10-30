@@ -1,0 +1,7 @@
+
+.Chris
+I can't see why you would not trust it because it is safer than any previous
+compression programs. It integrates into the kernal and makes it nearly
+impossible to delete. 
+
+

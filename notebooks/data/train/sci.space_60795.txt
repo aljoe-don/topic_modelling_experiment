@@ -1,0 +1,7 @@
+
+In pure speculation, I would guess cautions based on hazardous
+pre-launch ops would qualify.  Something like "Caution:  SRBs
+have just been armed."  
+It does raise an interesting question as to how hard it is to 
+pick out an Expected Error from an Unexpected Error in the heat
+of the moment. 

@@ -1,0 +1,6 @@
+
+    Actually, there such a thing as an '040 without a coprocessor. It's
+called the 68LC040. This is a redesign of the full 040 (which people are
+calling the 68RC040, although I have been told by a number of people
+that Motorola doesn't call the full '040 that) without the integrated
+FPU hardware. It just isn't there.

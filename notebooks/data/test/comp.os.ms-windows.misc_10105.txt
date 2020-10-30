@@ -1,0 +1,5 @@
+
+I've noticed this also.  The way it was explained to me is that Windows
+does not clear the upper memory blocks after a program is done.  Anyone
+out there know if this is why?
+ 

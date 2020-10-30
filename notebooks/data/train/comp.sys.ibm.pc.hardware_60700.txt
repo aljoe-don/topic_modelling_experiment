@@ -1,0 +1,9 @@
+
+I seem to recall that 486s run somewhere close to the boiling point of water.
+Anyone have an exact temperature?
+Anyway, putting a CPU fan/heat sink on it won't hurt and could help. Depends
+on how paranoid you are...
+--
+Damien Neil    dpn2@po.cwru.edu     "Until someone debugs reality, the best
+Case Western Reserve University      I can do is a quick patch here and there."
+CMPS/EEAP       Linux -- the choice of a GNU generation.        -Erik Green

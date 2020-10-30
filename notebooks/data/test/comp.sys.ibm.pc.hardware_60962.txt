@@ -1,0 +1,4 @@
+
+BUGS!!!!!
+16550 (without the A) would sometimes get extra characters in the FIFO.
+This renders the FIFO useless.  Only get the 16550A.

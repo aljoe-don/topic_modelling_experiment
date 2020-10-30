@@ -1,0 +1,7 @@
+
+..
+I have an ATI ultra pro card, and have found that the easiest way to view
+true color images is using their windows drivers and something like winjpeg
+or photofinish.  
+If anyone has a non-windows solution, I'd love to hear it!
+Dane

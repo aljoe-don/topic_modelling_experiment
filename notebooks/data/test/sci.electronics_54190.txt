@@ -1,0 +1,12 @@
+ <1993Apr22.220549.26828@dmu.ac.uk> <1993Apr23.115031.6151@titan.inmos.co.uk> <sasrer.735576383@cinnamon>
+This definately gets the car going, but... WD-40 is highly flammable. Explosive
+even in the right conditions, like a vapour sealed inside a distributor for
+eg. And contact points tend to arc a tiny bit :)
+I once saw the alternator/points cover blow completely off a motorcycle after
+it had been restored to life with WD-40... fun to watch
+(It was a Honda MR-50 minibike and the cover is only held on by large rubber 
+grommet, so it wasn't really a big blast.)
+       Graham B
+PS As a more serious aside, it is apparently also conductive, so it is best 
+to exercise caution with it around mains wiring.
+                                                

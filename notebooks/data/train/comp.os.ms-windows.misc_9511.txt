@@ -1,0 +1,5 @@
+
+//// Much stuff deleted //////
+What is Win32?  I upgraded to Mathcad 4.0 and it installed a directory for
+Win32 under \windows\system .  During the upgrade it told me that win32 was
+required.

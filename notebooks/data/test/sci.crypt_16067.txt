@@ -1,0 +1,5 @@
+
+I'm afraid I have to disagree with you on that point.  NSA will *not*
+tell RSA or any other non-DOD entity anything that its eavesdropping
+reveals.  That includes the FBI and Secrect Service (although there
+have been rare exceptions).   

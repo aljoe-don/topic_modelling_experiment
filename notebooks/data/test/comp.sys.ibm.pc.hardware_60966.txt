@@ -1,0 +1,7 @@
+
+The April 13 issue of PC Magazine published benchmarks for the ATI UltraPro
+running on both VLB and EISA:
+	800x600,16	800x600,256	1024x768,16	1024x768,256
+----------------------------------------------------------------------
+EISA	15.34		15.34		15.19		15.15
+VLB	16.02		16.31		16.33		16.24

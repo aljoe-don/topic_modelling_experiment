@@ -1,0 +1,5 @@
+Article-I.D.: crash.1993Apr05.152921.24454
+Where can I get the Winmarks benchmark to run on my PC?
+via ftp would be best.
+-Roger
+--------------------------------------------------------------

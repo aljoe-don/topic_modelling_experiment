@@ -1,0 +1,10 @@
+
+I think you meant Quadra 800 ..... (but a Centris 800 probably
+would be a real nice machine... :)  )
+But yeah, it needs 80ns not 60ns.
+Joel
+-- 
+Joel Siegel <jdsiegel@garnet.berkeley.edu    jdsiegel@ocf.berkeley.edu>
+"I myself have never been able to find out what feminism is:  I
+only know that I am called a feminist whenever I express
+sentiments that differentiate me from a doormat." -Rebecca West, 1913

@@ -1,0 +1,7 @@
+
+The ??-jumper is used, if the other drive a conner cp3xxx. 
+no jumper set: drive is alone
+Michael
+--
+*  michael@jester.gun.de  *   Michael Gerhards   *   Preussenstrasse 59  *
+                          *  Germany 4040 Neuss  *  Voice: 49 2131 82238 *

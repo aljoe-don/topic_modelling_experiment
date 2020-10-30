@@ -1,0 +1,7 @@
+
+Quoting dougb@ecs.comm.mot.com in article <1993Apr26.150434.227@lmpsbbs.comm.mot.com>:
+Why can't one site decide a session key and send it to the other sites
+by public key encryption?
+  __                                  _____
+\/ o\ Paul Crowley   pdc@dcs.ed.ac.uk \\ //
+/\__/ Trust me. I know what I'm doing. \X/  Fold a fish for Jesus!

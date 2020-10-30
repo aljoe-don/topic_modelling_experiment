@@ -1,0 +1,5 @@
+Article-I.D.: shelley.1r2p1pINNp6
+I would appreciate the driver name from CICA which functions as a 256
+color driver for a Quadtel video card. The type of chip or chipset used
+would suffice as well.
+                                          umeister@u.washington.edu

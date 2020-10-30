@@ -1,0 +1,6 @@
+
+Okay, I will byte.  Could someone provide more info on a 'good book on
+customizing your X applicaitons'?  I am in search of one which does NOT
+expect the reader to have the X11 source code memorized (or even available
+online!)
+-- 

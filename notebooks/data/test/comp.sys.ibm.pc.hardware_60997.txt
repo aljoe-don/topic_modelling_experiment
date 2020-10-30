@@ -1,0 +1,5 @@
+Article-I.D.: oracle.1993Apr22.214158.11952
+...
+There are jumpers on each drive that must be set for both to work.  The C: drivemust be set to be the master drive, and D: must be set to be the slave drive.
+The actual settings should be in info with the drives or is available from
+Western Digital.

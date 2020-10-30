@@ -1,0 +1,12 @@
+
+That is in fact the current version (it only came out in December).
+My test movie was created at 320*240 resolution, it wasn't being scaled up.
+Scaling was a very CPU-intensive operation with the original QuickTime (1.0);
+the current version has optimizations for ratios like 4:1 (160*120 -> 320*240),
+but even so, I'm prepared to believe that the performance isn't as good as
+with playing back an actual 320*240 movie. I haven't done any numerical
+measurements for scaled playback.
+Lawrence D'Oliveiro                       fone: +64-7-856-2889
+Computer Services Dept                     fax: +64-7-838-4066
+University of Waikato            electric mail: ldo@waikato.ac.nz
+Hamilton, New Zealand    37^ 47' 26" S, 175^ 19' 7" E, GMT+12:00

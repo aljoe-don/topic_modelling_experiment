@@ -1,0 +1,4 @@
+
+keep tabs with the FAQ in sci.image.processing. There is quite a
+comprehensive compilation of image processing s/w (X included). I've
+ftp'ed ImageMagick and its great. Check out the FAQ its all there.

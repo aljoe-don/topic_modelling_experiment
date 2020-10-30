@@ -1,0 +1,4 @@
+
+emm386 noems enables the system to use the "upper memory" between 640 and 
+1024.  That's a good place for device drivers, DOS kernal, etc.
+(Keep it in!)

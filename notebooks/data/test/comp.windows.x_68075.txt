@@ -1,0 +1,11 @@
+
+I highly recommend Starnet's Micro-X.  They have versions for DOS and Windows,
+with support for PC/TCP, or the Clarkson packet drivers.  I have used it
+successfully with twm, mwm, and olwm, over both ethernet and SLIP.
+And their tech support is top notch.  They really impressed me.  
+Kevin
+-- 
+Kevin J. Jarnot (jarnot@kin.lap.upenn.edu)      | "The monkey-boys are evil - 
+Lead Programmer/Analyst/Keyboardist             | Lord Whorfin is supreme..."
+Univ. of Pennsylvania Language Analysis Center  |  
+3700 Market St, Suite 202  Phila, PA 19104      |       "Vita Non Jerk"

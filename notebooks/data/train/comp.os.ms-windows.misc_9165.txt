@@ -1,0 +1,8 @@
+Article-I.D.: vcd.C52wt5.F2
+Yes - ignore the manual.  Just insert the evelope - don't use the keypad
+to move it up.  The Windows driver sends a message to the printer that
+tells it to load the envelope - if it is already loaded, it gets ejected
+and the printer tries to load another.  The instructions in the manual
+are for dumb DOS apps. that don't send the "load envelople" message.
+Bob Taylor
+HP Vancouver

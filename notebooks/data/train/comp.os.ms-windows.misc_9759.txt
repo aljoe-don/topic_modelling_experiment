@@ -1,0 +1,13 @@
+
+In a previous article, rudim@cs.kuleuven.ac.be (Rudi Maelbrancke) says:
+I think you need the EMM386.EXE noems
+This will let the expanded mem be active but not use any, therefore
+this will give you more extended mem for windows yet have all the
+bases covered.
+I do not use dos6 so I am not familiar with this.
+c-ya.....  /\/\artin
+-- 
+  This communication is sent by    /\/\artin   University of Arizona Tucson
+  =========================================================================
+  ak333@cleveland.freenet.edu   mlinsenb@ccit.arizona.edu  mlinsenb@arizvms
+  DEATH HAS BEEN DEAD FOR ABOUT 2,000 YEARS ****** FOLLOW THE KING OF KINGS

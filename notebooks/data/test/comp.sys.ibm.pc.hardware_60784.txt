@@ -1,0 +1,6 @@
+
+I have never had "exceptions" with build 44, 50, or 59 drivers.  I have a
+GW2000 DX266.
+--
+Scott Linn
+scott@hpcvccl.cv.hp.com

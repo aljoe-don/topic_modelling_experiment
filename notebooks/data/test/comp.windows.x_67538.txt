@@ -1,0 +1,9 @@
+
+hi,
+try DontZap in /usr/lib/X11/Xconfig
+cu
+	styx
+-----
+                ** Free Software Association of Germany **
+                  Great software should be free software
+                 Phone: 069 - 6312083 Data: 069 - 6312934

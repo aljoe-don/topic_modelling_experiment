@@ -1,0 +1,10 @@
+
+I ran into the same problem when I upgraded from a 2400 modem to a 14400
+modem. Any time I give the modem a reset command [ATZ] while, in windows.
+The computer locks up. If I give the ATZ command in DOS, it will work. My solution 
+was to not give the modem the [ATZ] command thru windows. In the PROCOMM +
+install process I told the program I have a hayes compatible 2400 modem. ATZ
+was not included in the initialization string & it works fine. I called MS
+about this, & they didn't have a clue as to what the memory/interupt conflict 
+could be. The lockup accures using ANY windows comm program that gives the ATZ
+command.

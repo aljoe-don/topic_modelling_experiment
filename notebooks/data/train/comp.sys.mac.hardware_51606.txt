@@ -1,0 +1,13 @@
+
+You are excused... the answer varies from Mac to Mac so it would be
+a complex answer in the FAQ.
+The si uses a 32 bit wide data bus and therefore you must use 4 8-bit
+wide simms.  Sorry, but no short cuts here.
+You're quite welcome.
+Greg.
+--
+My words, not Motorola's.   * ______ *    EQUAL rights NOT special rights     
+gpb@gpb-mac.sps.mot.com     * \ BI / * I will NOT ride in the back of the bus.
+Greg Berryman (512)928-6014 *  \  /  *         SILENCE = DEATH
+Motorola Austin, Texas, USA *   \/   *     First, be true to yourself.
+GLB mailing list ---> glblist@gpb-mac.sps.mot.com   (Motorola only)

@@ -1,0 +1,7 @@
+
+    You can get the ApplicationContext associated with a widget by calling
+    XtWidgetToApplicationContext.
+--
+===============================================================================
+Ian Hogg						ianhogg@cs.umn.edu
+                                                        (612) 424-6332

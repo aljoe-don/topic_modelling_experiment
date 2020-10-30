@@ -1,0 +1,6 @@
+
+They go through UUNET. This is often the problem - as UUNET often has
+problems with return paths.
+... deleted ...
+Yep.
+Bill

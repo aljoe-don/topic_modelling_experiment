@@ -1,0 +1,7 @@
+	<1qm5c9$6on@hcx1.ssd.csd.harris.com>
+I've seen a listing of a Seagate 1G IDE hard drive.
+Windows NT already supports SCSI, a variety of adapters, for disk,
+tape, and CD-ROM.  So does OS/2 2.0.
+-- 
+Richard Krehbiel                                 richk@grebyn.com
+OS/2 2.0 will do for me until AmigaDOS for the 386 comes along...

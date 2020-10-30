@@ -1,0 +1,21 @@
+
+    Lets carry this one step further. Suppose the text of the key is
+in itself conclusive evidence of the SAME CRIME for which the
+encrypted material is further evidence. I find myself envisaging a
+scenario like this:
+You have made some scans of Peanuts strips. You encrypt them. The key
+is a phrase.
+The Comic Police haul you in. They seize your system. They find the
+encrypted file.
+
+	tend to incriminate me of breaking laws, independent of what 
+	may or may not be in the encrypted file."  
+	itself"
+	the file encoded with this keyphrase contains illegal scans of 
+        copyrighted Peanuts strips.""
+Judge and CP: "Oh."
+     How will they get you now? I'm not saying that they won't, or
+can't (or even that they shouldn't :-), but what legal mechanism will
+they use? Should we be crossposting this to misc.legal?
+							Peter Trei
+							ptrei@mitre.org

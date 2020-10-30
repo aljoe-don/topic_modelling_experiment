@@ -1,0 +1,8 @@
+
+Apple doesn't make such a card, though I suppose a third party could.  One
+big problem is that there isn't room for a standard NuBus card inside the
+LC III.
+noah
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+noah@apple.com                                 Macintosh Hardware Design
+...!{sun,decwrl}!apple!noah   (not the opinions of) Apple Computer, Inc.

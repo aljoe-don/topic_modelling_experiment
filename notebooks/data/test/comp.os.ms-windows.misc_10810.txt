@@ -1,0 +1,5 @@
+
+I'm not sure that this is possible due to the way the Mac writes the 800k
+disk.  I think the way the sectors are set up are different enough that a
+PC 3.5" can't read it.  This is a hardware problem which software cannot
+correct.  Hope this helps and correct me if I'm wrong.

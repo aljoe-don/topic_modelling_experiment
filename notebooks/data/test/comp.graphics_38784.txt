@@ -1,0 +1,12 @@
+
+	I'm pretty sure most industry strength image processing specific 
+systems (i.e. photo processing gear) use as much as 96 bits of color info.
+Why? Why not, oversampling is never a bad idea especially if the
+hardware's only task is image manipulation, and profressional photographers
+demand professional results.
+	Strange question, but anyway, there's the VGX line, the newer
+Indigo^2, and the Onyx systems are the new big boys on the block (you
+can get a 24 processor system with twice the graphics performance of
+a reality engine). There's more, but I don't have my handy "periodic 
+table of sgi's" on me...
+			Keith

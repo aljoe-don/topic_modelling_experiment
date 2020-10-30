@@ -1,0 +1,8 @@
+
+I believe for this to work on a color display you must set the foreground of
+the GC to be (foreground^background).
+Patrick L. Mahan
+--- TGV Window Washer ------------------------------- Mahan@TGV.COM ---------
+Waking a person unnecessarily should not be considered  - Lazarus Long
+a capital crime.  For a first offense, that is            From the Notebooks of
+							  Lazarus Long

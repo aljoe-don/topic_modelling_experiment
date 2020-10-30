@@ -1,0 +1,5 @@
+
+A stupid question, but what will CView run on and where can I get it? I
+am still in need of a GIF viewer for Linux. (Without X-Windows.)
+Thanks!
+ 

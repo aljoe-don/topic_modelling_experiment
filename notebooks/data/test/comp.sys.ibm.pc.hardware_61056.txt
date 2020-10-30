@@ -1,0 +1,4 @@
+
+
+Try removing the monitor extension cable.  Reports are that the extension
+cable is causeing these problems.

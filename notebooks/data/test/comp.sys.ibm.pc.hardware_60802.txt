@@ -1,0 +1,8 @@
+
+<GUF@psuvm.psu.edu> writes:
+a 286 upgrade would probably cost about $50, 386 about $150 or so.  
+Coprocessors or accelerator cards would cost at least that much.
+-- 
+*****************************************************************************
+*  F.B.I.B.M.--The most feared merger  *  gsbg9079@uxa.cso.uiuc.edu         *
+*****************************************************************************

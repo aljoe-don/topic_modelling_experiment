@@ -1,0 +1,9 @@
+
+OTOH, some of us get lucky-- I've unplugged and replugged SCSI and ADB
+quite often, and never blown anything.  I blew out the ADB by shorting
+the cable, though.
+-- 
+Matthew T. Russotto	russotto@eng.umd.edu	russotto@wam.umd.edu
+Some news readers expect "Disclaimer:" here.
+Just say NO to police searches and seizures.  Make them use force.
+(not responsible for bodily harm resulting from following above advice)

@@ -1,0 +1,8 @@
+
+The problem was that SunPost411Ld was not defined.
+Douglas L.Acker                Western Geophysical Exploration Products
+____    ____     ____          a division of Western Atlas International Inc.
+\   \  /   /\   /   /\         A Litton / Dresser Company
+ \   \/   /  \ /   /  \        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  \  /   / \  /   /\   \       Internet  :  acker@wg2.waii.com
+   \/___/   \/___/  \___\      Voice     :  (713) 964-6128

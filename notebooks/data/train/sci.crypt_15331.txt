@@ -1,0 +1,8 @@
+
+A few more sources are statistics on your filesystems (easily
+and quickly obtained) and the output from the "rusage" system
+call.  
+You can also exec a finger to one or more favorite heavily-used
+systems, though this can take several seconds.
+cf. the source code to RIPEM on ripem.msu.edu.
+Mark R.

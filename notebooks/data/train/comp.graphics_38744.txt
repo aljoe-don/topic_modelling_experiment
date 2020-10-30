@@ -1,0 +1,6 @@
+
+You can find a Windows MPEG viewer at wuarchive.wustl.edu in the
+mirrors/msdos/windows3 directory.
+-- 
+TMC
+(tmc@spartan.ac.BrockU.ca)

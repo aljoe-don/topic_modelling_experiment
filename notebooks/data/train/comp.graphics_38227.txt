@@ -1,0 +1,7 @@
+
+	Ahh no.  Possibly you punched in the wrong numbers on your
+calculator.  256 color modes take a byte per pixel so 640 time 480 is
+307,200 which is 300k to be exact.  640x400x256 only takes 250k but I
+don't think it is a BIOS mode.  I wouldn't bet that all VGA cards can do
+that either.  If a VGA card has 512k I bet it can do both 640x400 and
+640x480.  That by definition is SVGA, though not very high SVGA.

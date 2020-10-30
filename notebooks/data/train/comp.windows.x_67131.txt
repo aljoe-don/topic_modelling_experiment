@@ -1,0 +1,5 @@
+
+On 19 Apr 1993 23:00:15 GMT, masc0442@ucsnews.sdsu.edu (Todd Greene) said:
+I believe it's XtVaAppInitialize or something like that.
+--
+Robert L. McMillin | Surf City Software | rlm@helen.surfcty.com | Dude!

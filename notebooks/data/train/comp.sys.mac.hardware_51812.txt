@@ -1,0 +1,13 @@
+
+TJ
+This problem is most likely the same that all cx users are experiencing....
+Thanks to one very adventurous USENET reader (sorry I can't remember the
+guy's name!  Somebody please post it....he deserves the credit for saving
+us all $$$$$) it is easily fixed, if it is the same problem......
+Best I can figure it is due to time, heat and repeated warmup/cool downs in
+the power supply....i.e., bad solder joints in the power supply circuit
+card.  Go get a desolder tool from radio shack, a low wattage iron and some
+good nonacid solder and resolder the lower left quadrant of the circuit
+card with the AC plugs facing away from you..........or get someone to do
+it for you.  It took me less then 10 minutes and saved me at least $300 for
+a new supply!

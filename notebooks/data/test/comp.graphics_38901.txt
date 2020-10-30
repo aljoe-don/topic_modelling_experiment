@@ -1,0 +1,10 @@
+
+FTP to wuarchive.wustl.edu,
+change into mirrors/msdos/graphics
+get "grfwk61t.zip"
+This is the DOS version of Graphic Workshop.  There is a Windows version which
+you could probably find in the mirrors/msdos/windows3 directory but I don't 
+know what the file name is. 
+-- 
+TMC
+(tmc@spartan.ac.BrockU.ca)

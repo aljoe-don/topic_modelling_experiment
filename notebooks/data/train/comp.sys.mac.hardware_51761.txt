@@ -1,0 +1,12 @@
+
+[... stuff deleted]
+[more stuff deleted...]
+How do you calculate that figure? I'd assume even in personal computers
+the board designers would use bank switching to (optimistically) 
+quadruple the access speed  or am I missing something here?
+HSK
+-- 
+Sie singen das alte Entsagungslied, das Eiapopeia vom Himmel,
+womit man beruhigt, wenn es greint, das Volk, den grossen Luemmel.
+Ein neues Lied, ein besseres Lied, oh Freunde, will ich Euch dichten,
+Wir wollen hier auf Erden schon das Himmelreich errichten.    ... H. Heine

@@ -1,0 +1,9 @@
+
+Following up to my own article...  I found that several people say that 
+LAN Server clients can talk to WFW.  Is this, then, also true for LAN
+Manager?  (Don't LAN Server and LAN Manager share common roots?)
+Somewhat less so now...  :)
+-- 
+[ /tom haapanen -- tomh@metrics.com -- software metrics inc -- waterloo, ont ]
+[       "stick your index fingers into both corners of your mouth.  now pull ]
+[          up.  that's how the corrado makes you feel."  -- car, january '93 ]

@@ -1,0 +1,8 @@
+
+distribute code implementing RSA.  It appears to be unlawful to use it, so
+I agree with your last sentence.
+Yes, that's correct.
+--
+Arthur L. Rubin: a_rubin@dsg4.dse.beckman.com (work) Beckman Instruments/Brea
+216-5888@mcimail.com 70707.453@compuserve.com arthur@pnet01.cts.com (personal)
+My opinions are my own, and do not represent those of my employer.

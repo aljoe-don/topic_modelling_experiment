@@ -1,0 +1,14 @@
+
+There are 2 books published by M&T BOOKS that come with C source code on
+floppies.  They are:
+Programming In 3 Dimensions, 3-D Graphics, Ray Traycing, and Animation
+Photorealism and Ray Tracing in C
+I have the first book and it is a great intro to 3-D, Ray Tracing and
+Animation.  Most of the programs are on the disk compiled and ready to run.
+I have only glanced at the second book but it also appears to be good.
+Hope this helps!
+Mark Larsen
+---------------------------------------------------------------------------
+markl@hunan.rastek.com
+"This R2 unit has a bad motivator!"
+   - Luke, Star Wars

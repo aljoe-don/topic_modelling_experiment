@@ -1,0 +1,8 @@
+
+
+Sorry Scott, if you post it here, you can read it here.  There is a shareware
+program available via anonymous FTP that will suit your needs.  You'll find 
+it at OAK.OAKLAND.EDU  in the subdirectory pub/msdos/graphics.  The file is
+called "GRFWK61T.ZIP."
+TMC.
+(tmc@spartan.ac.brocku.ca)

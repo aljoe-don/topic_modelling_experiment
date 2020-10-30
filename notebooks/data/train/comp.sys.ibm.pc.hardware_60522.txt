@@ -1,0 +1,10 @@
+Article-I.D.: geraldo.1quf75$qv1
+Maybe you need to go into \mach32\install and set a refresh rate for
+1280x1024.  You might need to use custom monitor option.
+Dan
+-- 
+Daniel Matthew Coleman		   |   Internet: dcoleman@ccwf.cc.utexas.edu
+-----------------------------------+---------- : dcoleman@utxvms.cc.utexas.edu
+The University of Texas at Austin  |	 DECnet: UTXVMS::DCOLEMAN
+Electrical/Computer Engineering	   |	 BITNET: DCOLEMAN@UTXVMS [.BITNET]
+-----------------------------------+------------------------------------------

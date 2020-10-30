@@ -1,0 +1,11 @@
+
+The version I have is using the x256q code instead of the default X Windows
+code.  I have it currently running on a DEC Alpha running OpenVMS AXP and
+so far have been pretty impressed.  The only "side-effect" of x256q is that
+it requires xstdcmap -best be run before it will work, annoyning but not a
+show stopper.
+Patrick L. Mahan
+--- TGV Window Washer ------------------------------- Mahan@TGV.COM ---------
+Waking a person unnecessarily should not be considered  - Lazarus Long
+a capital crime.  For a first offense, that is            From the Notebooks of
+							  Lazarus Long

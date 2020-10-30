@@ -1,0 +1,11 @@
+
+                                    config.sys / autoexec.bat
+                     MS DOS 5             no           WIN 3.1
+                     smartdrv.sys        cache         smartdrv.exe
+CORE (V 2.7)         6950 k/sec          1390 k/sec     1395 k/sec
+Norton SI (V 5.0)     730 k/sec           980 k/sec      982 k/sec
+I'd still like to here from people with VLB-IDE.
+I still want to know what VLB bus speed is used with IDE drives.
+I still want to know if some (most ?) IDE drives can handle bus speeds > 8 mhz.
+between 800 - 1000 k/sec (can't remember exactly).  I think the bus is running
+at 8 mhz in this case.  

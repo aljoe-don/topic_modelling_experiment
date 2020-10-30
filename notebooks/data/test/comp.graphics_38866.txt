@@ -1,0 +1,3 @@
+
+DTA will make a .FLI from GIFs as well as Targas. You don't need a converter.
+Also..get the latest version of DTA from wuarchive.wustl.edu in pub/msdos_uploads.

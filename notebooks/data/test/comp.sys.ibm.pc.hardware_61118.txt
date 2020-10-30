@@ -1,0 +1,13 @@
+
+I have the 1 meg card with the Crystal Scan 15 inch also.  I see very
+faint shadows on the left side of the screen only in 1024 x 768 mode,
+but not enough to really bother me.  The characters on the screen
+are clear until I turn on the Crystal Fonts, then they become blurry.
+I have a friend who has 2 meg on the video card who has the same shadows,
+but says the Crystal Fonts are, well, crystal clear.
+We are both using build 59 of the mach32 drivers. Neither of us has a monitor
+extension cable.  I tried the build55 driver and found no difference.
+--
+Tim King, tcking@uswnvg.com
+US West NewVector Group Inc.
+Bellevue, Washington

@@ -1,0 +1,49 @@
+
+Who said ISA was necessary?  EISA or VLB are the only interfaces worth
+investing thousands of dollars (e.g. a new pc's worth of money ) in .
+You didn't read to carefully.  VLB-IDE uses the same connection mechanism
+as standard IDE.  If transfer rate is limited by IDE, whether it's
+interfaced to ISA, EISA or VLB matters not.
+On mine, for one thing.  SCSI blows IDE out of the water, hands down.  If
+IDE has better throughput, why isn't it used on workstations and file
+servers?  
+No, that's the nice thing -- on a multitasking OS, SCSI can use both drives
+at once.  I've got unix loaded on one of my pcs (along with windogs) and the OS can only use one of the two IDE drives at one time.  It's pretty ugly.
+I just bought at Quantum 240 for my mac at home.  I paid $369 for it.  I
+haven't seen IDE drives cheaper.
+No, actually, we're talking about SCSI being expensive simply because
+nobody did a common interface for the PC.  If they had a common (read:
+easily implemented) method of adding scsi to a PC (like as in a Sun or
+Mac), then you'd find SCSI the connection medium of choice.
+On a single drive, SCSI is more expensive.  But, you bought your PC for
+expandibility, so, you'd want to add more drives or whatever.  The
+following are why I find SCSI intrinsically better than IDE:
+A (partial?) list:
+	1.  You can add many different types of devices and access them 
+	concurrently.
+	2.  A SCSI device works on many different machines (I have a mac
+	and a PC at home and moving hard drives between them is VERY nice
+	with SCSI -- hook them up and away they go)
+	3.  SCSI devices work together better than IDE devices.  For
+	instance, recently, I added an older connor 100 meg IDE to a maxtor
+	212 meg IDE.  The connor *MUST* be setup as the slave.  It will
+	work no other way.  On SCSI, you set the address, check the
+	termination, plug it in, and away it goes.
+	4.  I have a problem with IDE's mutual exclusion - I notice that
+	the time it takes to switch from accessing drive c: to drive d: is
+	quite long as compared to the time it takes to switch from drive c:
+	to d: on a SCSI system.  Under a multitasking OS, this is very
+	noticable, as many things can be going on at once.
+One neat thing that I've noticed lately (a fringe benefit) has been the
+ability to add older (almost dead) drives as storage on a SCSI system with
+little problem -- we've got a bunch of almost dead 20 meg drives that I've
+added to my PC.  I've now got the interface full, but, it does allow me to
+have 4 20 meg drives, 1 240 meg drive, 1 tape drive, and 1 105 meg drive
+all on the same card.  
+Simply put, SCSI is handier than IDE.  No mysterious jumpers to figure out.
+Greg.
+-- 
+_______________________________________________________________________________
+You can't go against nature, because when you do, 	Greg Shaw
+go against nature, it's part of nature too.		shaw@feanor.xel.com 
+			Love & Rockets			uunet!csn!xel.com!shaw  

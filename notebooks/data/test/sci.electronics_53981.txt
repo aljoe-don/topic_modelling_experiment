@@ -1,0 +1,9 @@
+
+
+To decide which kind of circuit you must know the initialprecission of
+the limiter-current and the allowed temp-drift.
+In the first case, you can use a Ube of a transistor as a voltage-reference
+of about 0.7 VDC with a temp-drift of 2mV/K. In the second case its better
+you use a bandgap-ref and a opamp-circuit to detect the maximum-current.
+The output of this opamp controlls the outputstage to limit the current.
+Bye Thomas

@@ -1,0 +1,20 @@
+Article-I.D.: n5ial.1993Apr22.143320.1308
+is this the KX-P1124 you're talking about?  or is there a KX-1124, too?
+I'll assume you just forgot the P....
+this light is also the power light.....  on (not blinking) just means that
+the power is turned on.  if you look at the panel, it should read
+      POWER
+      ---------
+      PAPER OUT
+right?
+don't know why it would do this, unless you're out of paper, that is.
+when you power up the printer, assuming it does have paper, the red power
+light (which, when flashing, doubles as paper out) should light, and a few
+seconds later, the green ONLINE light should come on.
+hope this helps.....
+   --jim
+--
+------------------------------------------------------------------------------
+AMATEUR RADIO: n5ial@w4zbb (Ft. Walton Beach, FL)          AMTOR SELCAL: NIAL
+------------------------------------------------------------------------------
+E-mail me for information about KAMterm (host mode for Kantronics TNCs).

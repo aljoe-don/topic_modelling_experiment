@@ -1,0 +1,3 @@
+
+It's not Clipper, it's any encryption system.  I've seen a number of
+designs; they generally involve a multi-line cleartext bridge.

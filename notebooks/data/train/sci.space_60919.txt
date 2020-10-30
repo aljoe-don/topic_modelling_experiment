@@ -1,0 +1,14 @@
+
+Gulp.
+[Disclaimer:  This opinion is mine and does not represent the views of
+Fermilab, Universities Research Association, the Department of Energy,
+or the 49th Ward Regular Science Fiction Organization.]
+ 
+-- 
+     O~~*           /_) ' / /   /_/ '  ,   ,  ' ,_  _           \|/
+   - ~ -~~~~~~~~~~~/_) / / /   / / / (_) (_) / / / _\~~~~~~~~~~~zap!
+ /       \                          (_) (_)                    / | \
+ |       |     Bill Higgins   Fermi National Accelerator Laboratory
+ \       /     Bitnet:     HIGGINS@FNAL.BITNET
+   -   -       Internet:  HIGGINS@FNAL.FNAL.GOV
+     ~         SPAN/Hepnet:      43011::HIGGINS 

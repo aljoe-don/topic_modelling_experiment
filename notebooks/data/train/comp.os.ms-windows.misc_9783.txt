@@ -1,0 +1,6 @@
+
+
+One addition to this... I don't know if it applies to everybody.  For my
+(Microsoft 400dpi) mouse to work with windowed DOS apps, I had to use the
+driver that came with Windows (Version 8.20).  8.1 didn't allow me to do
+it for some reason.

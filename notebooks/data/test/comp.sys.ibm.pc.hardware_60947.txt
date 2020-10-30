@@ -1,0 +1,19 @@
+
+Well, I have a different story to recount.  I attempted to low-level format a
+WD 43MB disk about a year ago.  When I understood my error, I contacted WD.
+They told me that I hadn't hurt the drive and that I should just run FDISK and
+FORMAT/S on it.  It was fine.  Also, I understand that Western Digital's BBS
+may have some low-level formatting routines specifically available for IDE
+drives.  You probably need to talk to them and get the straight scoop.
+George
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  George J. Pandelios				Internet:  gjp@sei.cmu.edu
+  Software Engineering Institute		usenet:	   sei!gjp
+  4500 Fifth Avenue				Voice:	   (412) 268-7186
+  Pittsburgh, PA 15213				FAX:	   (412) 268-5758
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+	     Software Engineering Institute, its sponsors, customers, 
+	     clients, affiliates, or Carnegie Mellon University.  In fact,
+	     any resemblence of these opinions to any individual, living
+	     or dead, fictional or real, is purely coincidental.  So there.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

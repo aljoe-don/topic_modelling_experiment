@@ -1,0 +1,6 @@
+
+Or just use the URT tool: rastorle.
+Yes, both it and the newer xli can.
+===============================================================================
+Wes Barris                                                   PH: (612) 626-8090
+Minnesota Supercomputer Center, Inc.                         Email: wes@msc.edu

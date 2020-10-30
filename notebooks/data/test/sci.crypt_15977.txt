@@ -1,0 +1,8 @@
+
+Ouch!  Thanks for trying it.
+Yes.  I'm not sure if my xposting to comp.speech made it to here too, but
+I've found that a low sample rate (3300 samples/sec at 8 bits per sample)
+plus the pd 'shorten' lossless sound compression code actually does get
+speech into 14.4K with a simdgen left over.  This is *definitely* worth
+working on, folks.  And shorten works in well under real-time.
+G

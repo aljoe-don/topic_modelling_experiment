@@ -1,0 +1,8 @@
+
+	* Add -lucb -lelf to the list
+    or
+	* #define index() and rindex() to strchr() and strrchr() respectively.
+	  Both use same args. Former are bsd, latter are SysV.
+-- 
++==============================Ahold NV===============================+
++=====================================================================+

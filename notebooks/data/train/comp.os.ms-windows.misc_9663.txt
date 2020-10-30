@@ -1,0 +1,7 @@
+
+
+****------->  No, U can download what??.zip from ftp.cica.indiana.edu
+              This package from MS is all U need to buid (simple?) .HLP
+              files from Rich Text Format Files (.RTF). This package
+              also contains .DOT tamplates for MS Word4Win.
+ 

@@ -1,0 +1,10 @@
+
+Jerry Salem writes
+The only way to do that would be to add a video card to the LC expansion  
+port. This doesn't have to be that expensive; several companies have portrait  
+monitor/video card bundles available. 
+Check a current MacWorld/MacUser.
+--Nizam
+--
+ /  *  \   Nizam Arain                           \ What makes the universe
+ \_____/   NeXTmail: narain@sumter.cso.uiuc.edu  / to compare it with.

@@ -1,0 +1,9 @@
+
+Maybe its a monitor problem.  You mentioned that you swapped cards, but not
+monitors.  Perhaps that could be it.
+Dan
+-- 
+Daniel Matthew Coleman		   |   Internet: dcoleman@utxvms.cc.utexas.edu
+-----------------------------------+---------- : dcoleman@ccwf.cc.utexas.edu
+The University of Texas at Austin  |	 DECnet: UTXVMS::DCOLEMAN
+Electrical/Computer Engineering	   |	 BITNET: DCOLEMAN@UTXVMS [.BITNET]

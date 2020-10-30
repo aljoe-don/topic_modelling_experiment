@@ -1,0 +1,9 @@
+
+Thanks to those who responded.
+We were able to prevent this behaviour by two methods:
+1) running twm rather than olwm
+2) keeping olwm, but putting "wmTimeout: 10" in the resources
+It has been suggested that the difficuty was something to do with the
+window manager positioning the popup window. Any guru who can analyse
+what is going on from this information, please post and let us know.
+Thanks -- Shirley

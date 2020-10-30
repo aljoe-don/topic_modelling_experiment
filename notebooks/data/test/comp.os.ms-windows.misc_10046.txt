@@ -1,0 +1,6 @@
+
+Dos 5 never used the area $E000 - $EFFF, as well as some others. If you have 
+any cards that use this are (such as a LAN card), you might get this 
+problem.
+Use the X=$E000-$EFFF in your EMM386.EXE line in config.sys. If you run 
+MemMaker then instruct it retain inclusions and exclusions.

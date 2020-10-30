@@ -1,0 +1,8 @@
+
+
+Hewlett Packard has a series of barcode decoder ICs HBCR-1800, HBCR-2000,
+and HBCR-2010 and they support 3of9  extended 3of9  interleaved 2of5  
+and UPC codes. The 2000 and 2010 pieces add codabar and code 128.
+These chips support HP's barcode wands and slot readers.
+An 1800 + a HEDS-3050 wand run about $150 CDN .
+Ian.

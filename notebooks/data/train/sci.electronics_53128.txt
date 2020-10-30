@@ -1,0 +1,28 @@
+
+OK, I've asked this before, and with a new thread on these lines, I
+ask this again:
+   I^2 * R cooling instead of heating?
+   hole currents over normal electron currents?
+   hole mobility to electron mobility? (please quote actual
+   test samples rather than estimates based on theory. Also,
+   don't be limited to semiconductors: consider also insulators,
+   resistors, dielectrics, piezo-electrics, conductors,
+   magnets (metal, ceramic), magnetostrictives, etc).
+   to summarize, this thread has so far stated that the only area
+   where holes are not detectable is the vacuum. That is, hole
+   particles only exist in the presence of matter.
+   Previous threads have stated that holes only exist in certain
+   semi-conductors. The question that naturally arises is if
+   the hole currents inside a semi-conductor vanish at the point
+   where the semiconductor is joined to a conductor (say, copper).
+   I don't want a theoretical discussion here about whether
+   holes could exist inside metal conductors, rather I ask for
+   an experimental discussion on how to amplify and detect such
+   currents *if* they exist.
+   Also note that I have cross-posted this to sci.electronics
+   since this is now becoming an electronic discussion.
+Thanx,
+Eric.
+----
+ ET   "A Force of Nature"
+----

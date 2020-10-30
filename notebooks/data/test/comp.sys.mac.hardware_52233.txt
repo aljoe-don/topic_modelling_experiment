@@ -1,0 +1,3 @@
+
+Those chimes indicate a hardware failure of some type during System startup.
+One thing that can cause the chimes is a cable that has become a bit loose. Next time you power down the computer, check that all cables are on tight.

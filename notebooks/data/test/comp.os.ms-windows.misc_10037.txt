@@ -1,0 +1,13 @@
+
+<much deleted>
+Sounds like a memory conflict problem, which can cause truly weird symptoms 
+like these. Call Dell tech support (or better, post to them on CSERVE if you
+have an account) and get the memory range(s) used by video RAM on your
+machine. The block windows from using those ranges with an
+EMMEXCLUDE= statement in the 386Enh section of SYSTEM.INI. You probably
+should include a statement excluding the same range from EMM386 or whatever
+memory manager you use in CONFIG.SYS.
+Dell "installs" Windows on the machines they ship, but the installation doesn't
+consist of much more than  copying the files to a hard disk. You still have
+to do the work. And the fact that you have the problem in Enhanced
+mode but not standard strongly suggests a high memory conflict.

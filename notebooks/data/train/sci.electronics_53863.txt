@@ -1,0 +1,23 @@
+
+Unless the DVM *says* it's measuring RMS, it's probably Average voltage.
+The input is diode rectified and measured as DC.  If it says it's RMS
+and but measures square/triangle/etc.  incorrectly, it's measuring
+average and multipling by a correction that's *only* true for sine waves
+(i.e.  Vave*(0.707/0.63) = Vrms).  If you want correct RMS for (most)
+any waveform, you need a "True-RMS" DVM/DMM which literally does the
+Root-Mean-Square calculation in either analog or digital circuitry.
+The last significant advantage of analog (IMO) ** was ** being able to
+"see" the signal if it was changing over time (e.g.  checking
+electrolytic capacitors).
+Anymore, most DMM have bargraphs, etc. that duplicate this.
+--
+================================================================================
+Jeff Gruszynski
+Semiconductor Test Equipment
+Systems Engineer
+Hewlett-Packard
+================================================================================
+(415) or T 694-3381
+jeff@hpmvd061.nsr.hp.com
+jeff@hpuplca.nsr.hp.com
+================================================================================

@@ -1,0 +1,7 @@
+
+This is what I posted that cview uses the root directory of the drive
+cview is on.  However, since It has so much trouble reading large files
+from floppy, I suspect that it uses the root directory of the drive the
+image files are on.
+Matthew Zenkar
+mz@moscom.com

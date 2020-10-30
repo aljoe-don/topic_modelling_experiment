@@ -1,0 +1,9 @@
+
+Shameless plug -- the Xaw3d widgets make Athena a much nicer
+alternative than the stock MIT Athena code.
+						...Mike
+-- 
+ Michael J. O'Connor           |  Internet:  mjo@fmsrl7.srl.ford.com
+ Ford Motor Company, OPEO      |  UUCP:      ...!fmsrl7!opeo!mjo
+ 20000 Rotunda, Bldg. 1-3001   |  Phone:     +1 (313) 248-1260
+ Dearborn, MI  48121           |  Fax:       +1 (313) 323-6277

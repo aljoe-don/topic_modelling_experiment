@@ -1,0 +1,8 @@
+
+I tend to use XIconifyWindow to achieve this effect...  Have you tried that?
+- Brad
+-- 
+Brad Daniels		`	|  "If money can't buy happiness,
+daniels@neosoft.com		|   I guess I'll have to rent it."
+I don't work for NeoSoft, and	|		- Weird Al Yenkovic
+don't speak for my employer.	|

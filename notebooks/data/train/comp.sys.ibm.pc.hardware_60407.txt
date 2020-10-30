@@ -1,0 +1,10 @@
+
+There is a simple answer.  If my memory serves me the scsi bios will only
+work as the first or second drive.  Any "built-in" drives e.g. IDE are
+installed first and then when the scsi bios runs it will try to install
+as the next drive.  But if there are already two drives, then no can do.
+The solution is simple: use the aspi4dos device driver and disable the
+scsi bios (as it is useless in your case).  It works like a champ!  I
+have seen a similar situation before.
+Good Luck
+Gordon Lang

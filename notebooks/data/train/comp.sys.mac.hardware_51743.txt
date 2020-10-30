@@ -1,0 +1,4 @@
+
+etc.
+Has anyone NOT had these problems in the given configurations?
+(that would help eliminate design flaw as the explanation)

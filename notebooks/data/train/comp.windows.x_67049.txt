@@ -1,0 +1,6 @@
+
+	window = XCreateWindow(...);
+	XSetTransientForHint(display, window, window);
+	XMapWindow(...);
+This is probably cheating, and some window managers might STILL refuse to 
+give it a border and all that other stuff, but it usually works.

@@ -1,0 +1,17 @@
+
+No.  It is technically inferior to the OS/GUIs that I listed.  I have already
+described why.  To say briefly:
+System 7 --easier to learn and use.  There have been independent studies to 
+           that effect.
+OS/2     --Can run MSW applications and has more stable multitasking.
+NeXTSTep --easier to learn, use, and program. More stable multitasking
+UNIX/X   --As easy to learn and use.  More stable multitasking.
+With the prpoer setup, all of these will exchange data with MSW machines as
+well as MSW machines will amongst themselves, so interoperability is not
+an issue.
+By this criterion, it is inferior.  If you have another, then perhaps I am
+incorrect.  Do you pick up the glove?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Kurt D. Bollacker                   Duke University Medical Center +
++ kdb@sunbar.mc.duke.edu                            Durham, NC 27710 + 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

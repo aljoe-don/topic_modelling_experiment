@@ -1,0 +1,6 @@
+
+Both xli and xloadimage will display in 24 bit color if a 24 bit visual
+is available.  Check the output of xdpyinfo to see if one is.
+===============================================================================
+Wes Barris                                                   PH: (612) 626-8090
+Minnesota Supercomputer Center, Inc.                         Email: wes@msc.edu

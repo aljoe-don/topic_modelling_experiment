@@ -1,0 +1,4 @@
+
+And even that doesn't help, there are at least two programs available
+that fixes this (UNP and DISLITE, both available from Simtel-20). And
+even without them it isn't THAT hard to fix.

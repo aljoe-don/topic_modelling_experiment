@@ -1,0 +1,9 @@
+
+I don't think FD is a problem.  Since FD is much sloooooooowwwwwwer
+than HD, the overhead of double buffering doesn't matter.
+Ken Nakata
+-- 
+/* I apologize if there are incorrect, rude, and/or impolite expressions in
+this mail or post. They are not intended. Please consider that English is a
+second language for me and I don't have full understanding of certain words
+or each nuance of a phrase.  Thank you. -- Ken Nakata, CIS student, NJIT */

@@ -1,0 +1,19 @@
+
+It would take a lot more than that. It sounds like the radio equipment is
+actually not shut completely off - but just goes to a standby situation.
+I suspect that the stories are just that, stories.  The voltage can only
+be sucked down so far instantaneously. When you try to jumpstart someones 
+car, when your vehicle is at idle, does your car stall? No, the other car
+just does not crank well.  Now, the engine might stall because the idle
+was too low to start with. When the extra current is drawn, the idle speed
+will drop - as the alternator loads down the engine to compensate for the
+increased amperage requirement.
+A transmitter is not going to be affecting house power. If surges are
+occurring there, it is due to another cause - not a transmitter.
+It is probably not that much of a problem. Often - toroid coils on the
+power leads will solve that part of the interference problem. It will
+not solve internal equipment deficiencies.
+It is probably not the transmitter that is at fault. If the person is an
+amateur, then he/she will probably be willing to help - if you explain
+that the person is causing interference.
+Bill

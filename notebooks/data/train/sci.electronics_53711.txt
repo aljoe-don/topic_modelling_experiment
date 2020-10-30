@@ -1,0 +1,7 @@
+
+The switches have a non-negligable on resistance (up to 1k ohm when
+powered by 5 volts) and a maximum current and a Maximum Static
+Voltage Across Switch.  Not a good bet for TTL.  Should work for
+CMOS, but slow things down a bit.  There are 74HC versions that
+have better specs. but lower max voltage.
+Mark Zenier  markz@ssc.wa.com  markz@ssc.com  

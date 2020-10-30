@@ -1,0 +1,14 @@
+
+A book that I can somewhat recommend is :
+                     
+                     Pratical Image Processing in C
+                     by Craig A. Lindley
+                     published by Wiley
+It addresses reading/writing to/from PCX/TIFF files; image acquisition, 
+manipulation and storage; and has source code in the book. The source is 
+primarily written in Turbo C and naturally has conversion possibilities. I 
+have converted some of it to Quick C. Naturally, the code has some problems 
+in the book - as usuall. Typos, syntax, etc. are problems. It can be a good 
+learning experience for someone who is studying C. There is also a companion 
+disk with source available for order and $50.00. Overall, the book is not 
+bad. I acquired the book at WaldenSoftware.

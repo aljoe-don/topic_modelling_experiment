@@ -1,0 +1,4 @@
+ 
+Those are pretty typical, I believe.
+Keep the swap file on the IDE.  32-bit access is worth a fair amount more
+than 13%.

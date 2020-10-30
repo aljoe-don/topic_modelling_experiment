@@ -1,0 +1,8 @@
+Article-I.D.: optilink.15213
+There may be some confusion here.  The Uniform Crime Reports program
+run by the FBI defines rape as a female victim only crime -- even
+though some states have the laws de-sexed.  I suspect that this causes
+male victims of rape to be left out of the UCR data.
+-- 
+Clayton E. Cramer {uunet,pyramid}!optilink!cramer  My opinions, all mine!
+Relations between people to be by mutual consent, or not at all.

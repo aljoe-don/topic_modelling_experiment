@@ -1,0 +1,9 @@
+
+...
+It's an interesting idea, but the worst-case data patterns developed to
+test magnetic media are totally different than the patterns used to detect
+common faults in memory chips.
+--
+Bob Nichols
+AT&T Bell Laboratories
+rnichols@ihlpm.ih.att.com

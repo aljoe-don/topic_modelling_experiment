@@ -1,0 +1,26 @@
+
+It is the radiated signal that would cause the problem.
+There is nothing in the Amateur Radio Tests that requires an technical
+competence at all. It is a simple matter to memorize all the questions
+and answers.  However, that said, most Hams that I know do spend quite
+a bit of time gaining some technical skill.
+Don't count on that.
+You cannot do that legally. However, you can ask a ham over to listen.
+If the interference occurs at a specific time each day, then it would
+be possible to do such scheduling.  If nothing else, you could invite
+the ham over to transmit from your driveway, to see if he interferes.
+If he does, then you probably need to have your equipment worked on to
+make it immune to rf interference.
+The FCC may, or may not, have such information. They have enough to do
+without getting calls for such information. If nothing else, call your
+city offices or police department (general business number). They should
+have the name of a local ham contact.
+See above - your concept of wasted signal is erroneous. If his rig is
+transmitting properly, then the chance of interference (with the exception
+of harmonic television interference) is the greatest - since he is putting
+out the strongest signal.
+Unfortunately, most consumer equipment is succeptable - it is all poorly
+designed.
+It does, but not for a mobile radio. There are very few mobile rigs that
+could power a 1500 watt amplifier.
+Bill

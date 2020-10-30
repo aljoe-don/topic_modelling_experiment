@@ -1,0 +1,16 @@
+
+Why so up tight?  FOr that matter, TIFF6 is out now, so why not gripe
+about its problems?  Also, if its so important to you, volunteer to
+help define or critique the spec.
+Finally, a little numerology:  42 is 24 backwards, and TIFF is a 24 bit
+image format...
+Chris
+---
+*********************************************************************
+Christopher P. Tully				cptully@med.unc.edu
+Univ. of North Carolina - Chapel Hill
+CB# 7525					(919) 966-2699
+Chapel Hill, NC 27599
+*********************************************************************
+I get paid for my opinions, but that doesn't mean that UNC or anybody
+                     else agrees with them.

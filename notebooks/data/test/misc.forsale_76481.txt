@@ -1,0 +1,8 @@
+
+				
+ VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+    CORRECTION: I check the diskettes, it only contains the PC/TCP
+     kernel, no applications. It is only good for people who needs
+     to run their own LAN applications that uses FTP PC/TCP kernel
+     calls, but mot the extra telnet/ftp/ etc... applications.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

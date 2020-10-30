@@ -1,0 +1,8 @@
+
+If you're going to do the series Diode thing (which is the easiest), just
+make sure that the LED can take the current (I can't recall it off-hand, but
+it's something like 100mA or more?)
+Greggo.
+Greg Moffatt  moffatt@bnr.ca
+Bell-Northern Resarch Inc., Ottawa Canada
+"My opinions; not BNR's"

@@ -1,0 +1,5 @@
+Article-I.D.: ohsu.1993Apr19.213505.2883
+I had this very same problem, and did 'work around' by turning parity checking off, but that only
+worked while I was in windows, and the parity error would occur immediately after exiting
+windows, however,the problem turned out to be 3 chip simms vs 9 chip simms.  I can't use 3 chip simms in my 
+computer, and when I replaced them, the problem vanished, forever.

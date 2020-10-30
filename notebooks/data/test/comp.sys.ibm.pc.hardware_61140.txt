@@ -1,0 +1,9 @@
+
+There should be no problem with this - just remember to get the number of
+wait states correct!
+Guy
+-- 
+-- -----------------------------------------------------------------------------
+Guy Dawson - Hoskyns Group Plc.
+        guyd@hoskyns.co.uk  Tel Hoskyns UK     -  71 251 2128
+        guyd@austin.ibm.com Tel IBM Austin USA - 512 838 3377

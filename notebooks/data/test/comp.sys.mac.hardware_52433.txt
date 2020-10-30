@@ -1,0 +1,3 @@
+
+The C650 comes with a microphone if you get the CD-ROM drive.  All other
+configurations don't include one.

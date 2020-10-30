@@ -1,0 +1,8 @@
+Article-I.D.: biochemi.ashok.661.0
+Not a typo.  It was uploaded to ftp.cica.indiana.edu a couple days back.
+Version 3.4 uses standard Windows printer drivers.
+Ashok
+--
+Ashok Aiyar                        Mail: ashok@biochemistry.cwru.edu
+Department of Biochemistry                       Tel: (216) 368-3300
+CWRU School of Medicine, Cleveland, Ohio         Fax: (216) 368-4544

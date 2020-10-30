@@ -1,0 +1,13 @@
+
+We had the same issue plague us for months on our Gateway.  I finally
+got tired of it so I permanently interchanged the drives.  The only
+reason I didn't do it in the first place was because I had several
+bootable 5-1/4's and some 5-1/4 based install disks which expected
+the A drive.  I order all new software (and upgrades) to be 3-1/2 and
+the number of "stupid" install programs that can't handle an alternate
+drive are declining with time - the ones I had are now upgraded.  And
+as for the bootable 5-1/4's I just cut 3-1/2 replacements.
+If switching the drives is not an option, you might be able to wire up
+a drive switch to your computer chasis.  I haven't tried it but I think
+it would work as long as it is wired carefully.
+Gordon Lang

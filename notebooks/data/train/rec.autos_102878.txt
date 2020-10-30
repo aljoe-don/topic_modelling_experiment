@@ -1,0 +1,8 @@
+
+Nobody is using discrete IC's to do these functions anymore if at
+all.  I doubt any of the Motor electronics had any to start with.
+...Much less TTL.
+I can almost guarantee that it'll a fruitless attempt to figure out
+how BMW does it without breaking anything and invalidating any
+warranty  on the car.  If you're lucky, you'd still be able to
+start the car.

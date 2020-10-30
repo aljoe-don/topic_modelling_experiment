@@ -1,0 +1,7 @@
+
+I think you got something wrong here.  You state that the system was a
+486dx250, then say that you sold the sx-33 chip that came with it.  This
+does not make sense.
+--
+Scott Linn
+scott@hpcvccl.cv.hp.com

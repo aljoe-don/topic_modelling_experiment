@@ -1,0 +1,14 @@
+
+angel@Foghorn_Leghorn.coe.northeastern.edu (Kirill Shklovsky) writes: 
+[...]
+As anyone who attended HoHoCon will attest, you can pick information
+off the video chip.  It's surprisingly easy too.  The guy did it with
+a portable TV, with very minor mods.  It only worked from 3 feet, but
+then it was just a demonstration.
+	RA
+rogue@cs.neu.edu (Rogue Agent/SoD!)
+-----------------------------------
+The NSA is now funding research not only in cryptography, but in all areas
+of advanced mathematics. If you'd like a circular describing these new
+research opportunities, just pick up your phone, call your mother, and
+ask for one.

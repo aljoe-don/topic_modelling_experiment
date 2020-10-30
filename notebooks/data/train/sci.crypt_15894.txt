@@ -1,0 +1,8 @@
+
+Fun!  Three questions:
+1) What hardware did you use?
+2) When you found the key, was there anything about it that was special
+   that meant you had been lucky to find it early? (Like the first 30 bits
+   all being 0)
+3) ... or did you mean a dictionary attack rather than a binary key attack?
+G

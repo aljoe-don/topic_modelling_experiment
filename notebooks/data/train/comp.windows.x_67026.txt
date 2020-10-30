@@ -1,0 +1,7 @@
+
+I've been using the xrpc package for about a year now.  I believe I got it from
+export.  
+--
+===============================================================================
+Ian Hogg						ianhogg@cs.umn.edu
+                                                        (612) 424-6332

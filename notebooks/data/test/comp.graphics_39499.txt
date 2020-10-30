@@ -1,0 +1,7 @@
+
+You can. At the least, your _hardware_ is capable of supporting this mode.
+I do know nothing about your video BIOS, though...
+Silly (but fool-proof ;) way: Install Windows with 640x480x32K colors
+wideo driver and display your pictures under windows...
+Cheese,
+/Serge.P

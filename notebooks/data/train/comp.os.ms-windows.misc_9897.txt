@@ -1,0 +1,11 @@
+
+Schlatter) says:
+Well, my newsreader shows the UUE file as having lots of spaces, which
+means it's broken before I even try to download it. Did anyone get it
+to uudecode successfully?
+Aengus
+--
+RBYAML@ROHMHAAS.COM                    Aengus Lawlor
+RBYAML@ROHVM1.BITNET                   (who used to be ALAWLOR@DIT.IE)
+"How about some of that famous Dublin wit, Barman?"
+"Certainly, sir. Would that be Dry or Sparkling?"

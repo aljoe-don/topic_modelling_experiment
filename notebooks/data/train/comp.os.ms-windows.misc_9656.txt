@@ -1,0 +1,9 @@
+
+Hi,
+I got a problem too, with a 486DX2-66 VLB, 4 Mb RAM,  170Mb disk.
+Sometimes, when I switch on the computer, it starts Windows (3.1 Dutch)
+Windows switches to 1024x768, switches back to text-mode and exits
+to DOS. After one or two resets, the system works fine...
+Thanks
+Patrick
+VU Amsterdam

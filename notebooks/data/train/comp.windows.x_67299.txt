@@ -1,0 +1,9 @@
+
+   Ncd has an excellent document titled "Host Loading Considerations in the X 
+  environment". I received my copy by emailing support@ncd.com. This may
+  help out.
+--
+==============================================================================
+Tim White				 University of South Carolina
+tim@otis.hssc.scarolina.edu	   Humanities and Social Sciences Laboratory
+(803)-777-7840 		  		     Columbia, S.C. 29208

@@ -1,0 +1,4 @@
+
+I have seen the same problem using a SPARCStation 10, Solaris 2.1, OW 3.1.
+In my case, it happens far more often than "periodically".
+Help?

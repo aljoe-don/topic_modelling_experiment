@@ -1,0 +1,8 @@
+
+Somebody in comp.multimedia was also having trouble using a Spigot in his
+LC III. It turned out he needed the latest version of ScreenPlay (1.1.1),
+which fixed things.
+Lawrence D'Oliveiro                       fone: +64-7-856-2889
+Computer Services Dept                     fax: +64-7-838-4066
+University of Waikato            electric mail: ldo@waikato.ac.nz
+Hamilton, New Zealand    37^ 47' 26" S, 175^ 19' 7" E, GMT+12:00

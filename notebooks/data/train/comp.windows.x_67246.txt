@@ -1,0 +1,17 @@
+
+Thanks for this clue, and thanks to Derek Ho also for a pointer in the
+same direction.
+One solution, due to Derek Ho: when the popup is popped up, we SetValue
+its location -- which on repeat popups will be unchanged from the
+previous popup. The slow response can be avoided by calling GetValue
+first, and only using SetValue if the required location is different.
+The problem can also be avoided by making a tiny alteration in the
+location of the popup, so that the SetValue really does change the
+location of the popup. (We tried this just for a double check on the
+source of the problem.)
+The solutions we have tried successfully are now as follows:
+1) Use "twm" or "mwm" rather than "olwm"
+2) Use "olwm", with resource "*wmTimeout: 10"
+3) Only reset the location of the popup window if it is truely changed.
+This is obviously working around some bug somewhere.
+Thanks -- Chris Ho-Stuart

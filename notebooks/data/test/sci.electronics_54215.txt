@@ -1,0 +1,7 @@
+
+Well - 100+ amps anyway. Transmissions are generally for a short interval.
+The battery would supply the rest. Of course, if you transmitted too much,
+you would run the battery down.
+It really would not be that much of a brake.  Even at 50% efficiency, 1500
+watts would only consume 4 horsepower.
+Bill

@@ -1,0 +1,12 @@
+
+As far as I know ISDN (call it Swissnet here, and it's being plugged in) it's
+8 bit 8000Hz (gives you one channel of 64kBit/sec) I guess you should not go
+below a sampling rate of 6000 Hz if you want to have same quality as on an
+analog-line. Anybody knows compression-algorithms & -factors for voice ?
+Greetings,
+	Germano Caronni
+-- 
+Instruments register only through things they're designed to register.
+Space still contains infinite unknowns.
+                                                              PGP-Key-ID:341027
+Germano Caronni caronni@nessie.cs.id.ethz.ch   FD560CCF586F3DA747EA3C94DD01720F

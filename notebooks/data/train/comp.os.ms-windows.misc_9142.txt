@@ -1,0 +1,3 @@
+Article-I.D.: cs.1993Apr6.040254.8443
+Yes, defragger IS come from Norton.
+If you have Norton Utility, don't bother.

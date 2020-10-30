@@ -1,0 +1,14 @@
+
+You'll have to check the keysym(s) on each of the keys for each
+modifier. The one with NumLock in its mapping is the modifier
+you want. A bit ugly perhaps but I think its currently the only
+way to do this (and it does have some precedent as keysyms are 
+used to differentiate CapsLock from ShiftLock for the Lock
+modifier).
+I don't know of an accepted strategy for handling ambiguous
+assignments either. (ie. what if NumLock is mapped for more then
+one modifier). I suppose first found is as good as any.
+X doesn't handle locking modifiers that well. 
+Hope that helps,
+Dave Lapp
+Standard Disclaimer etc...

@@ -1,0 +1,7 @@
+
+The 50 MHz external bus speed provides a hell for cache designs. Most
+of the DX-50 boards have too slow caches that make them effectively
+better off at 33 MHz bus speed. The 8k internal cache allows the
+DX2-66 to be generally faster anyway.
+--
+Segmented Memory Helps Structure Software

@@ -1,0 +1,21 @@
+
+[deleted]
+1. do not do a low level format on an IDE drive unless you have the
+   executable for doing so supplied by the manufacturer.  These are
+   available from bbs's or mail but the mail version costs a nominal
+   fee.
+2. In addition to the master/slave jumper on an IDE drive there is also
+   another jumper to indicate whether a slave is present.  Get it right!
+3. The cabling is not an issue as long as pin 1 goes to pin 1 goes to
+   pin 1.  No twisting or swapping on an IDE cable.  Be sure of pin 1
+   on all three components - do not make assumptions (guesses are ok
+   but assumptions are bad).
+4. If the cable and jumpers are correct, and the CMOS setup is correct,
+   then you may have to do an FDISK followed by a high level format.
+   I have NEVER personally found this necesary, but perhaps there is
+   something gone wrong with the data on the disks?  Probably not but
+   I understand your predicament - You will probably throw salt over
+   your shoulders, wear funny clothes and do a spooky sounding chant
+   while dancing around the room if someone said it might help.
+Good Luck
+Gordon Lang

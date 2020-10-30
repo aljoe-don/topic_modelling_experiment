@@ -1,0 +1,6 @@
+
+ export.lcs.mit.edu:/pub/sunkbd..930314.tar.Z
+	/MaF
+--
+Martin Forssen: maf@dtek.chalmers.se or maf@math.chalmers.se
+System administrator at math and dtek at Chalmers univ. of technology 

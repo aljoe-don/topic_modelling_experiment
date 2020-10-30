@@ -1,0 +1,4 @@
+
+This can be solved by going into your system folder and do a Get
+Info (command I)
+on the Finder and give it more memory.

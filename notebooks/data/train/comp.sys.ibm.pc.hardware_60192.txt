@@ -1,0 +1,6 @@
+
+
+I used to get this problem with AutoCad when using the NOEMS switch with 
+EMM386.EXE in DOS 5.0.  If you allocate some ram to EMM386 the problem 
+should go away.
+TMC.

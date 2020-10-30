@@ -1,0 +1,6 @@
+
+rpao@mts.mivj.ca.us writes in article <C5J6zn.681@mts.mivj.ca.us>:
+The floppy is served by DMA on the motherboard,
+and original DMA-controller can't reach more than the first
+16MB (The address-space of the ISA-bus)
+joerg

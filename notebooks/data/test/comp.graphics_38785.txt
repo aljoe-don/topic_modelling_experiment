@@ -1,0 +1,5 @@
+
+There is a program included with the book "Virtual Reality Playhouse" which
+will let you generate these pictures.  It's not a very powerful program but
+it does an acceptable job for experimentation purposes.
+davidr@rincon.ema.rockwell.com

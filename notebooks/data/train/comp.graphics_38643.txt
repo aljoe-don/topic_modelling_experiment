@@ -1,0 +1,4 @@
+
+What is the name of this PD C library for TIFF.  I'd like to get a copy of it,
+but I can't Archie for something I don't have the filename for.
+Thanks.

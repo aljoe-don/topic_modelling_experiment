@@ -1,0 +1,4 @@
+
+As I can recall, you can click on the upper left button of dos window, then 
+choose font to change. Also there is a demo window to show you in advance how
+the font you choose will affect the size of dos window. Make  a try! 

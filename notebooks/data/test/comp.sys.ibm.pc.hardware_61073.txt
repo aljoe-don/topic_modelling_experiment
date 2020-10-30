@@ -1,0 +1,3 @@
+
+ODD, FDISK works fine for me with 2 IDE drives and a SCSI drive on
+my Ultrastor 14F - only with the device driver loaded, though.

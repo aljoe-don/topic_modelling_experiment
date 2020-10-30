@@ -1,0 +1,8 @@
+
+IDE drives have jumpers on them to indicate if it is a master or a slave.
+If it is a master, then a second jumper indicates if a slave is present.
+These must be set correctly according to each drive's manufacturers spec-
+ification.  The CMOS setup is almost positively NOT the problem.  It is
+probably not the controller - IDE controllers all support exactly two
+drives maximum.  Check those jumpers.
+Gordon Lang

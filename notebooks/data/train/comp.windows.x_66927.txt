@@ -1,0 +1,10 @@
+
+The simple answer is for you to obtain use XView to do this.  XView is a
+one to one replacement for Sunview.  It should already be provided with
+you Sun running OpenWindows.   It is also free available as part of the
+contrib side of the MIT X11R5 release.
+Patrick L. Mahan
+--- TGV Window Washer ------------------------------- Mahan@TGV.COM ---------
+Waking a person unnecessarily should not be considered  - Lazarus Long
+a capital crime.  For a first offense, that is            From the Notebooks of
+							  Lazarus Long

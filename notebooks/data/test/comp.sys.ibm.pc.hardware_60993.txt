@@ -1,0 +1,10 @@
+
+NO! I'm running both at home. Ok, to the cumpter is turned off right now but I
+did boot BSD/386 from an IDE drive, most of the system is on a SCSI drive...
+I'm using an Adaptec 1542B and a no-name el-cheapo IDE card.
+Guy
+-- 
+-- -----------------------------------------------------------------------------
+Guy Dawson - Hoskyns Group Plc.
+        guyd@hoskyns.co.uk  Tel Hoskyns UK     -  71 251 2128
+        guyd@austin.ibm.com Tel IBM Austin USA - 512 838 3377

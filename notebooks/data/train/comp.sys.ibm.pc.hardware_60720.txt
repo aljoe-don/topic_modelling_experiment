@@ -1,0 +1,2 @@
+
+It should be halved that of turbo (ie 33Mhz).

@@ -1,0 +1,8 @@
+
+Not necessarily true; a short in one, if near the maximum series
+voltage drop, will overvoltage the other one and short it too, more
+-- 
+<BGB>
+lihan@ccwf.cc.utexas.edu        /   The only reason the world hasn't
+(really Bruce Bostwick)        /   dissolved into total chaos is that
+from the great state of TEXAS /   Murphy's Law also applies to Murphy.

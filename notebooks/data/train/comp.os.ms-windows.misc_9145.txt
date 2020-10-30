@@ -1,0 +1,6 @@
+Article-I.D.: agate.1pr6r2$t7c
+Apparently not. Many people complain about the confusion that
+results from the filemanager/progman split. It's just a basic
+flaw.
+Besides, what about the control panel icons? Where are all those
+little files?

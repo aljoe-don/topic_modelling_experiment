@@ -1,0 +1,12 @@
+
+Why don't you just run one LED at 60 KHz and use a flip flop at the receiving
+end to divide by 2 and give you a good square 30KHz signal.
+Just a thought.
+LORI
+ 
+-- 
+<<<RED FISHY WINS>>>
+Lori Gardi				(519) 661-2111 ext 8695
+Dept. of Astronomy,			lgardi@uwovax.uwo.ca
+University of Western Ontario
+London, ON, CANADA, N6A 3K7

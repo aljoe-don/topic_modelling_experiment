@@ -1,0 +1,3 @@
+
+Problem solved, its on wuarchive graphics/graphics/ray/RTrace/...
+Why does it seg fault so often?

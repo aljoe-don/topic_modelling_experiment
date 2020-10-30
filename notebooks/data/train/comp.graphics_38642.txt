@@ -1,0 +1,5 @@
+
+
+Unfortunately, cview does not pay attention to the temp environment variable.
+Matthew Zenkar
+mz@moscom.com

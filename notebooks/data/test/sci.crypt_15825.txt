@@ -1,0 +1,7 @@
+
+You mean something like Uuencode? It isn't super crypto, but it is encrypted.
+Scott
+-- 
+Scott Moir  /  Satyr on IRC    ______ # "There's really only one requirement 
+smoir@world.std.com            \ \/ / #  for a Prophet, and you've got it."
+B4 f t+ w g k+(+!) s+ m r p+    \/\/  # "What's that?"

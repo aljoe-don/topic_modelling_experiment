@@ -1,0 +1,5 @@
+Article-I.D.: ssc.1993Apr21.183146.19241
+A pretty serious book that still seems readable is
+Communication Receivers, Principes and Design
+by Rohde and Bucher.
+Mark Zenier  markz@ssc.wa.com  markz@ssc.com  

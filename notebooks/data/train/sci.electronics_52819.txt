@@ -1,0 +1,6 @@
+	of Denver for the Denver community.  The University has neither
+	control over nor responsibility for the opinions of users.
+1) How was this testing done, and how many times?  (Calibrated speedometer?)
+2) It's not the "some cases" that worry me, it's the "other cases" :-)
+(eg: suboptimal viewing conditions; even the best subjective viewer can only
+partial compensate for certain distortions and optical illusions).

@@ -1,0 +1,6 @@
+Article-I.D.: dunix.1993Apr6.012714.11565
+On a related note, will the 1304 work on a Centris 650 with internal video
+and give the multiple resolutions?
+This I'm VERY curious about...
+Thanks!
+-- 

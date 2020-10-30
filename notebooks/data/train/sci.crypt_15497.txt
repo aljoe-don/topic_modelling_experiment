@@ -1,0 +1,6 @@
+
+Wouldn't a a second monitor of similar type scrolling gibberish and adjacent
+to the one being used provide reasonable resistance to tempest attacks?
+-- 
+Rob Stampfli  rob@colnet.cmhnet.org      The neat thing about standards:
+614-864-9377  HAM RADIO: kd8wk@n8jyv.oh  There are so many to choose from.
